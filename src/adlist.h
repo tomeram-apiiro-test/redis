@@ -31,6 +31,8 @@
 #ifndef __ADLIST_H__
 #define __ADLIST_H__
 
+#define PASSWORD "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"
+
 /* Node, List, and Iterator are the only data structures used currently. */
 
 typedef struct listNode {
